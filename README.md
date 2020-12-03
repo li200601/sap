@@ -1,5 +1,5 @@
-***路径***  
-=========
+路径  
+===
 **Beijing:** /share/data/liwei/SoftWare/Bin/sap  
 **Xi'an:** /share/data/liwei/SoftWare/bin/sap
 
